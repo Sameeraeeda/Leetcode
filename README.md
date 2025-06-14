@@ -78,4 +78,8 @@
 |  |
 | ------- |
 | [3778-transform-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/3778-transform-array-by-parity) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
