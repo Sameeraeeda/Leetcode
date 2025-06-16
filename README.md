@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sameeraeeda/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0148-sort-list) |
@@ -47,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0414-third-maximum-number) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -71,6 +73,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0414-third-maximum-number) |
