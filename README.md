@@ -121,6 +121,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Sameeraeeda/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -133,6 +134,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Sameeraeeda/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
@@ -142,6 +144,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Sameeraeeda/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,6 +155,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Sameeraeeda/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## String Matching
