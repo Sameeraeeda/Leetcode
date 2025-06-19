@@ -122,6 +122,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## String Matching
 |  |
 | ------- |
