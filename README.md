@@ -37,6 +37,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sameeraeeda/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sameeraeeda/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3379-score-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3379-score-of-a-string) |
 ## Heap (Priority Queue)
 |  |
