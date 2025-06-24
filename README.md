@@ -126,6 +126,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -150,6 +151,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Sameeraeeda/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sameeraeeda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## String Matching
 |  |
