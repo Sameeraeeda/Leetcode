@@ -17,6 +17,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -38,12 +39,14 @@
 | [0445-add-two-numbers-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sameeraeeda/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sameeraeeda/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Sameeraeeda/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +69,7 @@
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
