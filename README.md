@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Sameeraeeda/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sameeraeeda/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/Sameeraeeda/Leetcode/tree/master/1500-count-largest-group) |
@@ -103,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Sameeraeeda/Leetcode/tree/master/0412-fizz-buzz) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sameeraeeda/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3379-score-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3379-score-of-a-string) |
 ## Heap (Priority Queue)
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Sameeraeeda/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
