@@ -80,6 +80,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sameeraeeda/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1500-count-largest-group](https://github.com/Sameeraeeda/Leetcode/tree/master/1500-count-largest-group) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -111,6 +112,7 @@
 | [0412-fizz-buzz](https://github.com/Sameeraeeda/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Sameeraeeda/Leetcode/tree/master/0520-detect-capital) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sameeraeeda/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [3379-score-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3379-score-of-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -128,6 +130,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sameeraeeda/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
 |  |
