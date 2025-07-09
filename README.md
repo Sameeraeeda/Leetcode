@@ -116,6 +116,7 @@
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
 | [3379-score-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3379-score-of-a-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Sameeraeeda/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
