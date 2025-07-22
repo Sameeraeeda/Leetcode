@@ -123,6 +123,7 @@
 | [0520-detect-capital](https://github.com/Sameeraeeda/Leetcode/tree/master/0520-detect-capital) |
 | [0837-most-common-word](https://github.com/Sameeraeeda/Leetcode/tree/master/0837-most-common-word) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sameeraeeda/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameeraeeda/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
