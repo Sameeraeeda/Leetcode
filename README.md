@@ -76,6 +76,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameeraeeda/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Monotonic Stack
 |  |
@@ -94,6 +95,7 @@
 | [1500-count-largest-group](https://github.com/Sameeraeeda/Leetcode/tree/master/1500-count-largest-group) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameeraeeda/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
 |  |
@@ -238,4 +240,5 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sameeraeeda/Leetcode/tree/master/0409-longest-palindrome) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameeraeeda/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
