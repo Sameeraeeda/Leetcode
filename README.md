@@ -95,6 +95,7 @@
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1500-count-largest-group](https://github.com/Sameeraeeda/Leetcode/tree/master/1500-count-largest-group) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameeraeeda/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -121,6 +122,7 @@
 | [0837-most-common-word](https://github.com/Sameeraeeda/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sameeraeeda/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3778-transform-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
@@ -138,6 +140,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameeraeeda/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3379-score-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Sameeraeeda/Leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sameeraeeda/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -243,4 +246,8 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sameeraeeda/Leetcode/tree/master/0409-longest-palindrome) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameeraeeda/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
