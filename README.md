@@ -77,6 +77,7 @@
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sameeraeeda/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sameeraeeda/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -146,6 +147,7 @@
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3379-score-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Sameeraeeda/Leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sameeraeeda/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
