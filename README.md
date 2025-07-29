@@ -55,6 +55,7 @@
 | [0009-palindrome-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Sameeraeeda/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0507-perfect-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sameeraeeda/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameeraeeda/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1500-count-largest-group](https://github.com/Sameeraeeda/Leetcode/tree/master/1500-count-largest-group) |
