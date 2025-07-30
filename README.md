@@ -154,6 +154,7 @@
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3379-score-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Sameeraeeda/Leetcode/tree/master/3396-valid-word) |
