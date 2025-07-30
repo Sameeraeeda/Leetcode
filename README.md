@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Sameeraeeda/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sameeraeeda/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -67,6 +68,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sameeraeeda/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Sameeraeeda/Leetcode/tree/master/0283-move-zeroes) |
@@ -116,6 +118,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sameeraeeda/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
