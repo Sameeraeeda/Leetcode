@@ -42,6 +42,7 @@
 | [0953-reverse-only-letters](https://github.com/Sameeraeeda/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Sameeraeeda/Leetcode/tree/master/0961-long-pressed-name) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -87,6 +88,7 @@
 | [0941-sort-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sameeraeeda/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
@@ -141,6 +143,7 @@
 | [0414-third-maximum-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3778-transform-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Merge Sort
