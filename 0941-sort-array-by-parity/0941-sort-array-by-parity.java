@@ -7,13 +7,8 @@ class Solution {
             l++;
         }
        }
-       int res[]=new int[nums.length];
-       int i=0;
-       for(int a:nums){
-           res[i]=a;
-           i++;
-       }
-       return res;
+       
+       return nums;
     } 
     public void swap(int nums[],int l,int r){
         int temp=nums[l];
