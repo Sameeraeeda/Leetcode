@@ -38,6 +38,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0961-long-pressed-name](https://github.com/Sameeraeeda/Leetcode/tree/master/0961-long-pressed-name) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -153,6 +154,7 @@
 | [0520-detect-capital](https://github.com/Sameeraeeda/Leetcode/tree/master/0520-detect-capital) |
 | [0837-most-common-word](https://github.com/Sameeraeeda/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sameeraeeda/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-long-pressed-name](https://github.com/Sameeraeeda/Leetcode/tree/master/0961-long-pressed-name) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sameeraeeda/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
