@@ -56,6 +56,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sameeraeeda/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -186,6 +187,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameeraeeda/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/Sameeraeeda/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sameeraeeda/Leetcode/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
 | ------- |
