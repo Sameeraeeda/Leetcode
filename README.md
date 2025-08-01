@@ -37,6 +37,7 @@
 | [0392-is-subsequence](https://github.com/Sameeraeeda/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sameeraeeda/Leetcode/tree/master/0443-string-compression) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Sameeraeeda/Leetcode/tree/master/0953-reverse-only-letters) |
@@ -85,6 +86,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Sameeraeeda/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0837-most-common-word](https://github.com/Sameeraeeda/Leetcode/tree/master/0837-most-common-word) |
 | [0941-sort-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -117,6 +119,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Sameeraeeda/Leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Sameeraeeda/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0837-most-common-word](https://github.com/Sameeraeeda/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sameeraeeda/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -142,6 +145,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0414-third-maximum-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -300,4 +304,5 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
