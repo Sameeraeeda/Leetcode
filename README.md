@@ -96,6 +96,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Sameeraeeda/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sameeraeeda/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
