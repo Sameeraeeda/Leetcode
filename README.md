@@ -100,6 +100,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sameeraeeda/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sameeraeeda/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sameeraeeda/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
