@@ -240,6 +240,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -255,6 +256,7 @@
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
