@@ -104,6 +104,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sameeraeeda/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sameeraeeda/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sameeraeeda/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sameeraeeda/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
