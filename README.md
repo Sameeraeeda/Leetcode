@@ -77,6 +77,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameeraeeda/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1500-count-largest-group](https://github.com/Sameeraeeda/Leetcode/tree/master/1500-count-largest-group) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Sameeraeeda/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
