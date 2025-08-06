@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Sameeraeeda/Leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Sameeraeeda/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -354,6 +355,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
