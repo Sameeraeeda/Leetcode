@@ -95,6 +95,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameeraeeda/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Sameeraeeda/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Sameeraeeda/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -148,6 +149,7 @@
 | [0041-first-missing-positive](https://github.com/Sameeraeeda/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Sameeraeeda/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Sameeraeeda/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Sameeraeeda/Leetcode/tree/master/0409-longest-palindrome) |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Sameeraeeda/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -181,6 +184,7 @@
 | [0075-sort-colors](https://github.com/Sameeraeeda/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Sameeraeeda/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -201,6 +205,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sameeraeeda/Leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sameeraeeda/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Sameeraeeda/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sameeraeeda/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
