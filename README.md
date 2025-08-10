@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Sameeraeeda/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Sameeraeeda/Leetcode/tree/master/0412-fizz-buzz) |
@@ -91,6 +92,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Sameeraeeda/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Sameeraeeda/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sameeraeeda/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sameeraeeda/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -379,6 +381,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sameeraeeda/Leetcode/tree/master/0048-rotate-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Bucket Sort
