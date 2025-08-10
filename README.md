@@ -91,6 +91,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Sameeraeeda/Leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Sameeraeeda/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sameeraeeda/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sameeraeeda/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sameeraeeda/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -256,6 +258,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sameeraeeda/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sameeraeeda/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/Sameeraeeda/Leetcode/tree/master/0392-is-subsequence) |
