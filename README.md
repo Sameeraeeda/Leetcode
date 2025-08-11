@@ -113,6 +113,7 @@
 | [0485-max-consecutive-ones](https://github.com/Sameeraeeda/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sameeraeeda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sameeraeeda/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Sameeraeeda/Leetcode/tree/master/0837-most-common-word) |
 | [0941-sort-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -385,6 +386,7 @@
 | [0268-missing-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
