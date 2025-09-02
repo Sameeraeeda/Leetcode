@@ -100,6 +100,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Sameeraeeda/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Sameeraeeda/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sameeraeeda/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sameeraeeda/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sameeraeeda/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -164,6 +165,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameeraeeda/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sameeraeeda/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Sameeraeeda/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Sameeraeeda/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sameeraeeda/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sameeraeeda/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -202,6 +204,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sameeraeeda/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sameeraeeda/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0148-sort-list) |
@@ -241,6 +244,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameeraeeda/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sameeraeeda/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Sameeraeeda/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Sameeraeeda/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sameeraeeda/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Sameeraeeda/Leetcode/tree/master/0392-is-subsequence) |
