@@ -28,10 +28,9 @@ class Solution {
         if(temp1!=null){
             tail.next=temp1;
         }
-        else{
+        if(temp2!=null){
             tail.next=temp2;
         }
-
         return Dummy.next;
     }
 }
