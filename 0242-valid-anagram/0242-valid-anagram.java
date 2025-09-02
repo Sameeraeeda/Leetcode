@@ -3,16 +3,19 @@ import java.util.Arrays;
 class Solution {
     public boolean isAnagram(String s, String t) {
         int arr[]=new int[26];
-        for(char ch:s.toCharArray()){
-            int idx=ch-'a';
-            arr[idx]++;
+        if(s.length()!=t.length()){
+            return false;
         }
-        for(char ch:t.toCharArray()){
-            int idx=ch-'a';
-            arr[idx]--;
+        for(int i=0;i<s.length();i++){
+            int ch=s.charAt(i)-'a';
+            arr[ch]++;
+        }
+        for(int i=0;i<t.length();i++){
+            int ch=t.charAt(i)-'a';
+            arr[ch]--;
         }
         for(int i=0;i<26;i++){
-            if(arr[i]!=0){
+            if(arr[i]>0){
                 return false;
             }
         }
