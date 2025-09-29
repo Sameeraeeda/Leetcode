@@ -144,6 +144,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sameeraeeda/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sameeraeeda/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -385,6 +386,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sameeraeeda/Leetcode/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sameeraeeda/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Number Theory
@@ -424,6 +426,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Sameeraeeda/Leetcode/tree/master/0048-rotate-image) |
 | [1677-matrix-diagonal-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Bucket Sort
 |  |
