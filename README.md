@@ -444,5 +444,6 @@
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/Sameeraeeda/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sameeraeeda/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
