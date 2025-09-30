@@ -275,6 +275,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameeraeeda/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sameeraeeda/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1651-shuffle-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/Sameeraeeda/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -313,6 +314,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Sameeraeeda/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sameeraeeda/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sameeraeeda/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
 |  |
