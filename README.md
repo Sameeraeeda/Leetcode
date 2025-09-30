@@ -152,6 +152,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sameeraeeda/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sameeraeeda/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -200,6 +201,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameeraeeda/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -393,6 +395,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sameeraeeda/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sameeraeeda/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Number Theory
 |  |
@@ -433,6 +436,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2428-equal-row-and-column-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
