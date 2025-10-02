@@ -135,6 +135,7 @@
 | [0496-next-greater-element-i](https://github.com/Sameeraeeda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sameeraeeda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sameeraeeda/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Sameeraeeda/Leetcode/tree/master/0837-most-common-word) |
 | [0941-sort-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -195,6 +196,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sameeraeeda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Sameeraeeda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sameeraeeda/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Sameeraeeda/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sameeraeeda/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -428,6 +430,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sameeraeeda/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Sameeraeeda/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [2714-left-and-right-sum-differences](https://github.com/Sameeraeeda/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Greedy
