@@ -74,6 +74,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sameeraeeda/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sameeraeeda/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -93,6 +94,7 @@
 | [0206-reverse-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sameeraeeda/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sameeraeeda/Leetcode/tree/master/0394-decode-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
 |  |
@@ -288,6 +290,7 @@
 | [0242-valid-anagram](https://github.com/Sameeraeeda/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sameeraeeda/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Sameeraeeda/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Sameeraeeda/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Sameeraeeda/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Sameeraeeda/Leetcode/tree/master/0443-string-compression) |
