@@ -228,6 +228,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameeraeeda/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
@@ -260,6 +261,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3778-transform-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Merge Sort
 |  |
@@ -319,6 +321,7 @@
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3379-score-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Sameeraeeda/Leetcode/tree/master/3396-valid-word) |
+| [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sameeraeeda/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Heap (Priority Queue)
 |  |
