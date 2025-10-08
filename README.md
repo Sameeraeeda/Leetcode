@@ -361,6 +361,7 @@
 | [0112-path-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sameeraeeda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Sameeraeeda/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Sameeraeeda/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sameeraeeda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -420,6 +421,7 @@
 | [0112-path-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sameeraeeda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Sameeraeeda/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Sameeraeeda/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sameeraeeda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -473,6 +475,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sameeraeeda/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Sameeraeeda/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Sameeraeeda/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sameeraeeda/Leetcode/tree/master/0338-counting-bits) |
@@ -486,6 +489,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Sameeraeeda/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sameeraeeda/Leetcode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Sameeraeeda/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sameeraeeda/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
