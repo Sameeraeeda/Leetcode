@@ -11,34 +11,39 @@
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
         ListNode temp=head;
-        int count=0;
+        int len=0;
         while(temp!=null){
-           count++;
-           temp=temp.next;
+            len++;
+            temp=temp.next;
         }
-        ListNode swap1=null;
-        ListNode swap2=null;
+        ListNode first=null;
+        ListNode sec=null;
+        int l=1;
         temp=head;
-        int x=k;
-        int cnt=0;
-        int y=count-k+1;
         while(temp!=null){
-           cnt++;
-           if(cnt==x){
-            swap1=temp;
-           }
-           if(cnt==y){
-            swap2=temp;
-           }
-           temp=temp.next;
+            if(l==k){
+                break;
+            }
+            temp=temp.next;
+            l++;
         }
-       swap(swap1,swap2);
-       return head;
+        first=temp;
+        temp=head;
+        l=1;
+        while(temp!=null){
+            if(l==len-k+1){
+                break;
+            }
+            temp=temp.next;
+            l++;
+        }
+        sec=temp;
+        swap(first,sec);
+        return head;
     }
-     public static void swap(ListNode swap1,ListNode swap2){
-        int temp = swap1.val;
-    swap1.val = swap2.val;
-    swap2.val = temp;
-     }
-
+    public void swap(ListNode first,ListNode sec){
+        int num=first.val;
+        first.val=sec.val;
+        sec.val=num;
+    }
 }
