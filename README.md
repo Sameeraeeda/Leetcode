@@ -290,6 +290,7 @@
 | [0049-group-anagrams](https://github.com/Sameeraeeda/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Sameeraeeda/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sameeraeeda/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Sameeraeeda/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sameeraeeda/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sameeraeeda/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Sameeraeeda/Leetcode/tree/master/0394-decode-string) |
@@ -363,6 +364,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sameeraeeda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sameeraeeda/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Sameeraeeda/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sameeraeeda/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sameeraeeda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -385,6 +387,7 @@
 | [0113-path-sum-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sameeraeeda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Sameeraeeda/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sameeraeeda/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Sameeraeeda/Leetcode/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sameeraeeda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -425,6 +428,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sameeraeeda/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sameeraeeda/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sameeraeeda/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Sameeraeeda/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Sameeraeeda/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sameeraeeda/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -540,4 +544,5 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sameeraeeda/Leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Sameeraeeda/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
