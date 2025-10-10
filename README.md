@@ -370,6 +370,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/Sameeraeeda/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/1005-univalued-binary-tree) |
@@ -394,6 +395,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/Sameeraeeda/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -434,6 +436,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0687-longest-univalue-path](https://github.com/Sameeraeeda/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0904-leaf-similar-trees](https://github.com/Sameeraeeda/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Sameeraeeda/Leetcode/tree/master/1005-univalued-binary-tree) |
