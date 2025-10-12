@@ -178,6 +178,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Sameeraeeda/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sameeraeeda/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sameeraeeda/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -227,6 +228,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sameeraeeda/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Sameeraeeda/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sameeraeeda/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3595-rearrange-k-substrings-to-form-target-string](https://github.com/Sameeraeeda/Leetcode/tree/master/3595-rearrange-k-substrings-to-form-target-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sameeraeeda/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -280,6 +282,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sameeraeeda/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sameeraeeda/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Sameeraeeda/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3778-transform-array-by-parity](https://github.com/Sameeraeeda/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Sameeraeeda/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
