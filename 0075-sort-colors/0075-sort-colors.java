@@ -16,8 +16,7 @@ class Solution {
                 swap(nums,mid,high);
                 high--;
             }
-        }
-        
+        }        
     }
     private static void swap(int nums[],int i,int j){
         int temp=nums[i];
