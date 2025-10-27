@@ -73,6 +73,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sameeraeeda/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sameeraeeda/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Sameeraeeda/Leetcode/tree/master/0394-decode-string) |
@@ -295,6 +296,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sameeraeeda/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sameeraeeda/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Sameeraeeda/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sameeraeeda/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Sameeraeeda/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sameeraeeda/Leetcode/tree/master/0242-valid-anagram) |
