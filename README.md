@@ -558,6 +558,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Sameeraeeda/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Sameeraeeda/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1670-patients-with-a-condition](https://github.com/Sameeraeeda/Leetcode/tree/master/1670-patients-with-a-condition) |
+| [1837-daily-leads-and-partners](https://github.com/Sameeraeeda/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sameeraeeda/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Backtracking
 |  |
